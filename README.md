@@ -47,7 +47,3 @@ I enjoy understanding how algorithms work under the hood and applying them to so
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
