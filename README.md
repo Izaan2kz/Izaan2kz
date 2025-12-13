@@ -36,14 +36,4 @@ I enjoy understanding how algorithms work under the hood and applying them to so
 - 💻 Software Development & Problem Solving  
 
 ---
-
-<div align="center">
-  <a href="https://twitter.com/your_handle_here">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your_email_here@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
 <br />
