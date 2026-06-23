@@ -33,7 +33,6 @@ I enjoy understanding how algorithms work under the hood and applying them to so
 - 💻 Software Development & Problem Solving
 - 📊 Data Analysis & Algorithms  
 - 🧠 Model training, evaluation, and optimization  
-- 💻 Software Development & Problem Solving
 - 🤖 Machine Learning & Artificial Intelligence
 
 ---
