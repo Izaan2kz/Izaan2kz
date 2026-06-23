@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <b>Learning how machines learn.</b>
+  <b>Building systems. Learning how machines learn.</b>
 </div>
 
 <br />
@@ -23,7 +23,7 @@ I enjoy understanding how algorithms work under the hood and applying them to so
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,ts,react,supabase,vercel,git&theme=dark" />
 </div>
 
 ---
@@ -32,8 +32,8 @@ I enjoy understanding how algorithms work under the hood and applying them to so
 
 - 💻 Software Development & Problem Solving
 - 📊 Data Analysis & Algorithms  
-- 🧠 Model training, evaluation, and optimization  
-- 🤖 Machine Learning & Artificial Intelligence
+- 🎨 UI/UX & Frontendn  
+- 🗄️ Database & Backend
 
 ---
 <br />
