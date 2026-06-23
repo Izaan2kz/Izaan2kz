@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm **Izaan**, a Computer Science student with a strong interest in **Machine Learning and AI**.  
+I'm **Izaan**, a Computer Science student with a strong interest in **Software Development and AI**.  
 I enjoy understanding how algorithms work under the hood and applying them to solve real-world problems.
 
 - Started with core programming and problem-solving fundamentals  
@@ -30,10 +30,11 @@ I enjoy understanding how algorithms work under the hood and applying them to so
 
 ## Interests
 
-- 🤖 Machine Learning & Artificial Intelligence  
+- 💻 Software Development & Problem Solving
 - 📊 Data Analysis & Algorithms  
 - 🧠 Model training, evaluation, and optimization  
-- 💻 Software Development & Problem Solving  
+- 💻 Software Development & Problem Solving
+- 🤖 Machine Learning & Artificial Intelligence
 
 ---
 <br />
