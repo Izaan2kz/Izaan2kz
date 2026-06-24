@@ -32,7 +32,7 @@ I enjoy understanding how algorithms work under the hood and applying them to so
 
 - 💻 Software Development & Problem Solving
 - 📊 Data Analysis & Algorithms  
-- 🎨 UI/UX & Frontendn  
+- 🎨 UI/UX & Frontend 
 - 🗄️ Database & Backend
 
 ---
