@@ -32,8 +32,8 @@ I enjoy understanding how algorithms work under the hood and applying them to so
 
 - 💻 Software Development & Problem Solving
 - 📊 Artificial Intelligence & Machine Learning  
-- 🎨 UI/UX & Frontend
-- 🗄️ Database & Backend
+- 🎨 UI/UX Design & Frontend Engineering
+- 🗄️ Database Systems & Backend Architecture
 
 ---
 <br />
