@@ -31,8 +31,8 @@ I enjoy understanding how algorithms work under the hood and applying them to so
 ## Interests
 
 - 💻 Software Development & Problem Solving
-- 📊 Data Analysis & Algorithms  
-- 🎨 UI/UX & Frontend 
+- 📊 Artificial Intelligence & Machine Learning  
+- 🎨 UI/UX & Frontend
 - 🗄️ Database & Backend
 
 ---
